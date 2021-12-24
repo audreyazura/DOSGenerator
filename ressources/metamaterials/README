@@ -1,0 +1,4 @@
+Field name format:
+	QD material: material_QD
+	Barrier material: material_barrier
+	CB offset between material1 and material2: offset_[material1][material2]

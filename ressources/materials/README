@@ -1,0 +1,9 @@
+Field name format:
+	The time function properties field have multiple parameters, depending on the type. It can mainly be in two forms (parameters are noted in []) :
+		1) [time_id]_[unit] = [number]: the considered time is constant for all QD sizes
+			- [unit] is the unit of [number] in SI (e..g, ns)
+		2) [time_id]_file_[unit_QD]_[unit_time] = [filename]: the considered time is a function of QD size, with the file given giving this dependency
+			- [unit_QD] is the unit of the QD size in the function given in [filename] in SI (e.g., nm)
+			- [unit_time] is the unit of the time in the function given in [filename] in SI (e.g., ns)
+
+[time_id] can be capturetimes, escapetimes or recombinationtimes.

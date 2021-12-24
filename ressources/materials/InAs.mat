@@ -1,0 +1,7 @@
+name=InAs
+bandgap=0.354
+effectiveMass_electron=0.023
+effectiveMass_hole=0.57
+capturetimes_file_nm_ps=InAs.scsv
+escapetimes_file_nm_ps=InAs-10^-17cm^-3.scsv
+recombinationtimes_ns=3.6

@@ -1,0 +1,4 @@
+name=InAsGaAs
+material_barrier=GaAs
+material_QD=InAs
+offset_InAsGaAs=0.7

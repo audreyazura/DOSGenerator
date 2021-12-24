@@ -1,0 +1,7 @@
+name=GaAs
+bandgap=1.441
+effectiveMass_electron=0.067
+effectiveMass_hole=0.57
+capturetimes=
+escapetimes=
+recombinationtimes=
